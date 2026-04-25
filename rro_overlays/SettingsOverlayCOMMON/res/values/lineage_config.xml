@@ -6,4 +6,7 @@
 <resources>
     <!-- Show battery cycle count -->
     <bool name="config_show_battery_cycle_count">true</bool>
+
+    <string name="build_maintainer_summary" translatable="false">Onelots</string>
+    <string name="build_maintainer_donate_url" translatable="false">https://discord.onelots.fr</string>
 </resources>
